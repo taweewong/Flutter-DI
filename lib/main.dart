@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_di/app_module.dart';
+import 'package:flutter_di/provider/ui/provider_screen.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import 'getit_with_injectable/ui/injectable_screen.dart';
@@ -26,7 +27,8 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
       // home: const GetItManualScreen(),
-      home: const InjectableScreen(),
+      // home: const InjectableScreen(),
+      home: const ProviderScreen(),
     );
   }
 }

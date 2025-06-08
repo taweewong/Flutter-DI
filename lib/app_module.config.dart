@@ -22,8 +22,8 @@ extension GetItInjectableX on _i174.GetIt {
     _i526.EnvironmentFilter? environmentFilter,
   }) {
     final gh = _i526.GetItHelper(this, environment, environmentFilter);
-    gh.factory<_i959.InjectableService>(() => _i959.InjectableServiceImpl());
-    gh.factory<_i1028.InjectableRepository>(
+    gh.singleton<_i959.InjectableService>(() => _i959.InjectableServiceImpl());
+    gh.singleton<_i1028.InjectableRepository>(
       () => _i1028.InjectableRepositoryImpl(gh<_i959.InjectableService>()),
     );
     return this;
