@@ -289,6 +289,13 @@
             </list>
           </value>
         </entry>
+        <entry key="injectable_generator">
+          <value>
+            <list>
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/injectable_generator-2.7.0/lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="io">
           <value>
             <list>
@@ -405,6 +412,13 @@
           <value>
             <list>
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/pubspec_parse-1.5.0/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="recase">
+          <value>
+            <list>
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/recase-4.1.0/lib" />
             </list>
           </value>
         </entry>
@@ -639,6 +653,7 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/http_multi_server-3.2.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/http_parser-4.1.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/injectable-2.5.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/injectable_generator-2.7.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/io-1.0.5/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/js-0.7.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/json_annotation-4.9.0/lib" />
@@ -656,6 +671,7 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/pool-1.5.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/pub_semver-2.2.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/pubspec_parse-1.5.0/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/recase-4.1.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/riverpod-2.6.1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/riverpod_analyzer_utils-0.5.10/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dev/riverpod_annotation-2.6.1/lib" />
